@@ -1,6 +1,6 @@
 title: "Personal Blog"
 author: "Marc Galitskii"
-description: "sic."color: #f45;\">&lt;3</b>"
+description: "sic."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
