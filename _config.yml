@@ -1,4 +1,4 @@
-title: "marc galitski - blog, gallery & projects"
+title: "Marc Galitskii"
 author: "Marc Galitskii"
 description: "sic."
 permalink: /:title/
@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "assets/about_me.md", title: "about me", icon: address-card}
+  - {file: "about_me.md"}
   # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
