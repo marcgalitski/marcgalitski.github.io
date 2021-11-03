@@ -1,5 +1,5 @@
 ---
-title:  AI#0 - Black Box Model
+title:  AI (0) - Black Box Model
 mathjax: true
 layout: post
 categories: 
