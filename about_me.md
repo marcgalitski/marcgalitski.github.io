@@ -32,7 +32,8 @@ I have obtained my BSc in Psychology & Neuroscience at Maastricht University. I 
 ## Experience
 
 1. Coding: Python, Java, C#, Julia, HTML5, LaTeX
-2. Software: Word, EndNote, PowerPoint, Adobe Photoshop, github, VSCode, Jupyter/Colab, Outlook
+2. Software: Word, EndNote, PowerPoint, Adobe Photoshop, github, VSCode, Jupyter/Colab, Outlook, SPSS
+3. Academic: designing & performing experimental research, psychometrics, statistical analysis, distilling information, reading & writing papers, presenting
 
 
 # Vision
